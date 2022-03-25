@@ -25,6 +25,13 @@ a {
   padding: 0 1.6rem;
 }
 
+.nav {
+  background-color: red;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
 .logo {
   position: relative;
 }

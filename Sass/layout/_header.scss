@@ -1,5 +1,9 @@
 
 
+.nav{
+    @include d-flex(flex, center, space-around)
+}
+
 .logo{
     position: relative;
 }

@@ -1,0 +1,7 @@
+@mixin d-flex($df, $ai, $jc) {
+    background-color: red;
+    display: $df;
+    align-items: $ai;
+    justify-content: $jc;
+    
+}
