@@ -1,0 +1,16 @@
+
+
+.logo{
+    position: relative;
+}
+
+.logo::after{
+    position: absolute;
+    top: .2rem;
+    left: 5rem;
+    content: '';
+    width:3rem ;
+    height: 1rem;
+    border-radius: 3rem;
+    background-color: $logo-color;
+}
